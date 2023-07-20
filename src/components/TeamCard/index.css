@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.team-list-items {
+  height: 200px;
+  width: 400px;
+  background-color: transparent;
+  border: 2px solid #475569;
+  border-radius: 5px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.team-card-image {
+  height: 80px;
+  width: 80px;
+}
+.team-name {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border-bottom: none;
+  text-decoration: transparent;
+}
+.link-route {
+  text-decoration: none;
+}

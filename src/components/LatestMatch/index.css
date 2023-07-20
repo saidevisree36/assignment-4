@@ -1,0 +1,95 @@
+/* Write your CSS here */
+.latest-match-container {
+  min-height: 400px;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.latest-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  text-align: left;
+}
+.match-container {
+  height: 600px;
+  min-width: 900px;
+  background-color: #0f172a;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px;
+}
+.competing-team-date-venue-container {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.competing-team {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.date {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.venue {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.result {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.competing_logo {
+  margin-top: 100px;
+  height: 100px;
+  width: 200px;
+}
+.innings-umpire-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.first-innings-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.innings-first {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.innings-first-team {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.second-innings-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.umpire-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
